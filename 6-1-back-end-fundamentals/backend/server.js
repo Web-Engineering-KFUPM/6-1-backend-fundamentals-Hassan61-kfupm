@@ -25,7 +25,7 @@ app.get('/about', (req, res) => {
 // TODO 7: Create the "/student" route
 app.get('/student', (req, res) => {
   res.json({
-    name: 'Aisha',
+    name: 'Hassan',
     major: 'Computer Science'
   });
 });
